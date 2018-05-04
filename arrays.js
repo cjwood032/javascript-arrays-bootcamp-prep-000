@@ -1,4 +1,4 @@
 var chocolateBars = ['snickers', 'hudred grand', 'kitkat', 'skittles'];
-var addElementToBeginningOfArray(string); = {
+var addElementToBeginningOfArray(string) = {
   chocolateBars.unshift(string)
 }
